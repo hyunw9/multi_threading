@@ -38,7 +38,7 @@ trainDeadlock 회피 기법 구현
 
 ## reference
 
-관련 참조 자료 및 예제
+CAS(Compare And Set) 기법을 활용한 Atomic 한 Stack 구현
 
 ## threadCoordination
 
